@@ -1,4 +1,10 @@
-#Here are files and folders we give git in order to ignore them.
+# here are files and folders we give git in order to ignore them
 
-#Ignore node_modules folder
+#ignore node_modules
 node_modules/
+
+#ignore the db.json file.
+db.json
+
+#ignore the bower lib folder
+public/lib/

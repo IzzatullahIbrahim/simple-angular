@@ -1,0 +1,27 @@
+{
+  "name": "simple-angular",
+  "description": "this is a very simple angular app in vanilla javascript.",
+  "main": "index.js",
+  "authors": [
+    "Mochammad Ibrahim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "javascript",
+    "npm",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/IzzatullahIbrahim/simple-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-ui-router": "^0.3.2"
+  }
+}
