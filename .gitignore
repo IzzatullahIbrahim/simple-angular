@@ -1,0 +1,4 @@
+#Here are files and folders we give git in order to ignore them.
+
+#Ignore node_modules folder
+node_modules/
