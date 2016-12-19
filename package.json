@@ -1,0 +1,17 @@
+{
+  "name": "simple-angular",
+  "version": "1.0.0",
+  "description": "this is a very simple angular app in vanilla javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Mochammad Ibrahim",
+  "license": "ISC"
+}
